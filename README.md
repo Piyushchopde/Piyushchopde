@@ -10,7 +10,7 @@
   Open-source projects related to cloud automation and building efficient data pipelines.
 
 - 📫 **How to reach me:**  
-  - Email: piyush.chopde@example.com  
+  - Email: piyushchopde.@gmail.com  
   - LinkedIn: https://linkedin.com/in/piyush-chopde  
   - GitHub Issues: Feel free to open a discussion on one of my repos!
 
